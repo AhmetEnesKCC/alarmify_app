@@ -18,9 +18,11 @@
 
 </div>
 
-<div style="text-align: center">
+<div style="text-align: center; display : flex;justify-content : space-between">
 
 ![Hello](./images/AyiWWcb1Oy.gif)
+
+![Hello](./images/1uAhaSnI8F.gif)
 
 </div>
 
@@ -37,6 +39,8 @@
 ## - Optimizations
 
 ## - Firebase Login
+
+## - Show Nearest Alarm (not tested)
 
 </div>
 
